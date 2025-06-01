@@ -9,7 +9,7 @@
     "url": "https://github.com/vynhart/file-diff-unique-lines.git"
   },
   "engines": {
-    "vscode": "^1.100.0"
+    "vscode": "^1.96.0"
   },
   "categories": [
     "Other"
